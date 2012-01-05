@@ -1,6 +1,6 @@
 SOPA-Blackout
 =============
-![SOPA-Blackout Screenshot](http://i.imgur.com/wNrFh.png "SOPA-Blackout Screenshot")
+![SOPA-Blackout Screenshot](http://i.imgur.com/xmqRh.png "SOPA-Blackout Screenshot")
 
 SOPA-Blackout is a simple blackout script that censors your site until your visitors click anywhere on the page.
 
